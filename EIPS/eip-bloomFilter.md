@@ -2,7 +2,7 @@
 eip: <to be assigned>
 title: Optional Bloom Filter for eth_getLogs
 description: Adds an optional `bloomFilter` field to the `eth_getLogs` filter object so callers can hide the exact `address`/`topics` they are searching for.
-author: TBD (@github-handle)
+author: Simon Jentzsch (@simon-jentzsch)
 discussions-to: https://ethereum-magicians.org/t/<to-be-created>
 status: Draft
 type: Standards Track
